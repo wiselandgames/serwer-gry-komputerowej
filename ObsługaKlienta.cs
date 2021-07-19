@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ObsługaSerwera
+public class ObsługaKlienta
 {
     public static void PowitanieOtrzymane(int _odKlienta, Pakiet _pakiet)
     {
